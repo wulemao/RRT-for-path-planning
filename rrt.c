@@ -1,2 +1,0 @@
-#RRT for path planning
-
